@@ -1,0 +1,49 @@
+@import url("../css/header.css");
+@import url("../css/reset.css");
+@import url("../css/homepage.css");
+@import url("../css/catalogo.css");
+@import url("..//css/dispositivos.css");
+@import url("../css/rodape.css");
+@import url("../css/about.css");
+@import url("../css/cadastro.css");
+@import url("../css/login.css");
+
+/*Planos*/
+@import url("../css/planos.css");
+
+
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+:root{
+
+    --branco-neve: #FFFAFA;
+    --fonte-teste: "Merriweather";
+    --fonte-krona: "Krona One";
+    --dark-grey: #2F4F4F;
+    --king-crimison: #DC143C;
+    --laranja: #eb9b00;
+    --azul-dark: #00008B;
+    --indisponivel: #808080;
+    --kuuga: #8B0000;
+    --decade: #FF00FF;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+
+
+
+
+body{
+    background-color: black;
+    font-family: var(--fonte-teste);
+    font-size: 24px;
+    font-weight: 400;
+    color: var(--branco-neve);
+
+}

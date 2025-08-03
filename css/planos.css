@@ -1,0 +1,108 @@
+.planos{
+    display: flex;
+    font-family: var(--fonte-krona);
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 0 0 0;
+
+
+
+
+}
+
+
+.planos__titulo{
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+    margin: 4em 0 1em 0.5em;
+
+
+}
+
+.planos__lista{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5em;
+
+}
+
+.planos__opcao{
+    margin: 0 0 0 3em; /*Aqui consegui fazer uma serapação entre os itens*/
+    border-color: aliceblue; /*Aqui eu estou falando a cor da borda*/
+    border-style: solid; /*Aqui está mostrando que a borda vai ser solida*/
+    border-width: 8px; /*Aqio está mostrando a dimensaão da borda*/
+    border-radius: 16px;
+    padding: 1.5em; /*Alarguei a borda, expandi teoricamente*/
+}
+
+
+
+.beneficios__titulo{
+    margin: 0.7em 0 0.5em 0;
+    font-size: 60px;
+
+
+
+
+
+
+}
+
+.beneficios__item{
+    margin: 0.1em 0 1em 0;
+    padding: 1em 0 0 1em;
+    font-size: 18px;
+
+
+
+}
+
+
+.beneficios__item-restrito{
+    color: var(--indisponivel);
+    font-size: 18px;
+      margin: 1.5em 0 2em 0;
+
+
+}
+
+.botao{
+    display: flex;
+    align-items: center;
+    margin: 3em 0 0 6em;
+    
+
+
+}
+
+
+.botao__assinar{
+    color: var(--branco-neve);
+    background-color: var(--kuuga);
+    padding: 0.8em;
+    border-radius: 18px;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+.decade{
+    background-color: var(--decade);
+}
+
+.genm{
+    background-color: purple;
+
+}
+
+.botao__assinar:hover{
+    background-color: blue;
+
+
+
+
+
+}

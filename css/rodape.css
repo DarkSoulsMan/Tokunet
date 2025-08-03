@@ -1,0 +1,13 @@
+.rodapé{
+    background-color: var(--dark-grey);
+    padding: 2.7em;
+    align-items: center;
+
+
+}
+
+.rodapé__texto{
+    text-align: center;
+
+
+}

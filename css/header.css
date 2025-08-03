@@ -1,0 +1,67 @@
+.cabecalho{/*Aqui estamos mexendo com o todo do cabeçalho*/
+    display: flex;
+    background-color: var(--dark-grey);
+    color: var(--branco-neve);
+    display: flex;
+    align-items: center;
+    padding: 0.3em;
+    font-size: 24px;
+ 
+}
+
+.cabecalho__logo{
+    height: 3em; /*Tamanho da logo*/
+    margin-left: 1em;
+}
+
+.cabecalho__titulo{
+    color: var(--king-crimison);
+    font-weight: 400;
+    text-align: center;
+    padding: 0.1em;
+    margin: 0.5em 0 0.4em 0.1em;
+}
+
+.cabecalho__titulo-negrito{
+    font-weight: 700;
+}
+
+
+.cabecalho__lista{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    width: 70vw; /*Joguei a lista em si para o meio do cabeçalho*/
+}
+
+
+.cabecalho__lista-item{
+    text-align: center;
+    margin-top: 0.5em;
+    padding: 1em;
+    text-decoration: none;
+    list-style: none; /*Lembrar que isso aqui faz com que as marcação saia do item da lista*/
+}
+
+
+.cabecalho__lista-link{
+    text-decoration: none;
+    color: var(--branco-neve);
+}
+
+
+.lista-perfil{
+    display: flex;
+    width: auto;
+}
+
+.lista__item-perfil{
+    padding: 0.5%;
+}
+
+
+.cabecalho__lista-link:hover{
+    color: var(--king-crimison);
+
+
+}

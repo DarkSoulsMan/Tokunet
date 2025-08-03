@@ -1,0 +1,38 @@
+.sobre{
+    display: flex;
+    padding: 5% 15%;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    gap: 82px;
+}
+
+.sobre__conteudo{
+    width: 50%;
+    flex-direction: column;
+    gap: 42px;
+
+
+
+}
+
+
+.sobre__titulo{
+    font-size: 60px;
+    width: 400;
+    margin: 1em 0 0.3em 0;
+
+
+
+}
+
+.sobre__texto{
+    padding: 1em;
+}
+
+.sobre__imagem{
+    border-radius: 15px;
+
+
+
+}

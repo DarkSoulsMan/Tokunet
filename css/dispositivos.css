@@ -1,0 +1,44 @@
+.dispositivos{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 25em;
+  
+
+}
+
+.dispositivos__titulo{
+    font-size: 90px;
+    padding: 1em;
+    
+}
+
+.dispositivos__texto{
+    font-size: 32px;
+
+}
+
+
+.dispositivos__lista{
+    display: flex;
+    justify-content: center;
+    margin: 5em 0 0 0;
+
+
+}
+
+.dispositivos__lista-item{
+    align-items: center;
+    padding-left: 1em;
+}
+
+
+.dispositivos__lista-nome{
+    font-size: 24px;
+    text-align: center;
+    margin-left: 6.8em;
+}
+
+.dispositivos__imagem{
+    width: 150%;
+}
