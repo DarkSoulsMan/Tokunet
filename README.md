@@ -11,5 +11,5 @@ Esse projeto foi feito como parte do meu aprendizado em HTML e CSS. Comecei com 
 - Swiper.js
 
 ## Observações
-Este projeto marca uma fase de transição entre aplicar código sem entender totalmente e começar a desenvolver com mais autonomia. Ele não será atualizado, mas servirá como registro de aprendizado.
+- Este projeto marca uma fase de transição entre aplicar código sem entender totalmente e começar a desenvolver com mais autonomia. Ele não será atualizado, mas servirá como registro de aprendizado.
 
